@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="tool_icon_array">
+        <item>@drawable/ic_calendar_date</item>
+    </string-array>
+
+    <string-array name="tool_title_array">
+        <item>@string/calendar_cal</item>
+    </string-array>
+
+    <string-array name="tool_class_name">
+        <item>"com.black.peach.tools.CalendarCalculatorActivity"</item>
+    </string-array>
+
+</resources>

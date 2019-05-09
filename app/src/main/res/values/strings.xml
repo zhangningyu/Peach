@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">Peach</string>\
+
+    <!-- Calendar Calculator -->
+    <string name="calendar_cal">Calendar Cal</string>
+    <string name="start_date">Start Date:</string>
+    <string name="start_date_tips">Choose Start Date</string>
+    <string name="end_date">End Date:</string>
+    <string name="end_date_tips">Choose End Date</string>
+    <string name="result">Result:</string>
+    <string name="day">Days</string>
+    <string name="total_days">Total</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <string name="error_date_tips">Please choose right date.</string>
+
+</resources>

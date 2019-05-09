@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">桃子</string>
+
+    <!-- Calendar Calculator -->
+    <string name="calendar_cal">日期计算</string>
+    <string name="start_date">起始日期：</string>
+    <string name="start_date_tips">选择起始日期</string>
+    <string name="end_date">截止日期：</string>
+    <string name="end_date_tips">选择截止日期</string>
+    <string name="result">结果：</string>
+    <string name="day">天</string>
+    <string name="total_days">共</string>
+    <string name="monday">星期一</string>
+    <string name="tuesday">星期二</string>
+    <string name="wednesday">星期三</string>
+    <string name="thursday">星期四</string>
+    <string name="friday">星期五</string>
+    <string name="saturday">星期六</string>
+    <string name="sunday">星期天</string>
+    <string name="error_date_tips">请选择正确的起止日期。</string>
+
+</resources>
